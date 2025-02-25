@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\obj\Debug\c#tutor.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\obj\Debug\c_tutor.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\obj\Debug\c_tutor.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\obj\Debug\c#tutor.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\obj\Debug\c#tutor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\bin\Debug\c#tutor.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\bin\Debug\c#tutor.exe
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\bin\Debug\c#tutor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\obj\Debug\c#tutor.exe
+C:\Users\Administrator\Documents\Visual Studio 2022\Project\c#tutor\c#tutor\obj\Debug\c#tutor.pdb
